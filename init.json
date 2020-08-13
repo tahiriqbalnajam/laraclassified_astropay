@@ -1,0 +1,10 @@
+{
+    "name": "astropay",
+    "version": "1.0",
+    "display_name": "AstroPay",
+    "description": "This plugin is for AstroPay",
+    "author": "Usman",
+    "category": "payment",
+    "has_installer": true,
+    "item_id": ""
+}
